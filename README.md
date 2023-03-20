@@ -5,11 +5,11 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/@streamworlddev"><img width="32px" alt="Youtube" title="Youtube" src="https://raw.githubusercontent.com/streamworlddev/streamworlddev/2ae6bd044ff89e1ce2aad7294f3c0719a4d572f0/images/youtube.svg"/></a>
+  <a href="https://www.youtube.com/@streamworlddev"><img width="48px" alt="Youtube" title="Youtube" src="https://raw.githubusercontent.com/streamworlddev/streamworlddev/master/images/youtube-48px.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/udgRqcCM" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://raw.githubusercontent.com/streamworlddev/streamworlddev/2ae6bd044ff89e1ce2aad7294f3c0719a4d572f0/images/discord.svg"/></a>
+  <a href="https://discord.gg/udgRqcCM" alt="Discord" title="Dev Pro Tips Discord Server"><img width="48px" src="https://raw.githubusercontent.com/streamworlddev/streamworlddev/master/images/discord-48px.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;
-  <a href="https://instagram.com/huseyin.gulyol" alt="Instagram" title="Instagram"><img width="32px" src="https://raw.githubusercontent.com/streamworlddev/streamworlddev/2ae6bd044ff89e1ce2aad7294f3c0719a4d572f0/images/instagram.svg"/></a>
+  <a href="https://instagram.com/huseyin.gulyol" alt="Instagram" title="Instagram"><img width="48px" src="https://raw.githubusercontent.com/streamworlddev/streamworlddev/master/images/instagram-48px.svg"/></a>
 </p>
 
 
