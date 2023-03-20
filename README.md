@@ -105,8 +105,14 @@
 <details open> 
   <summary><h2>📊 GitHub Stats</h2></summary>
   <!-- https://github.com/marketplace/actions/github-profile-3d-contrib -->
-  <a href="https://github.com/yoshi389111/github-profile-3d-contrib"><img alt="streamworlddev's GitHub Profile 3D Contrib" src="https://raw.githubusercontent.com/streamworlddev/streamworlddev/master/profile-3d-contrib/profile-night-green.svg" /></a>
+ <img alt="streamworlddev's GitHub Profile 3D Contrib" src="https://raw.githubusercontent.com/streamworlddev/streamworlddev/master/profile-3d-contrib/profile-night-green.svg" />
 
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="streamworlddev's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=streamworlddev&bg_color=00000f&color=007bff&line=008f4c&point=FFFFFF&hide_border=true" /></a>
+ <img alt="streamworlddev's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=streamworlddev&bg_color=00000f&color=007bff&line=008f4c&point=FFFFFF&hide_border=true" />
+	
+<!-- https://github.com/jstrieb/github-stats -->
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=streamworlddev&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=streamworlddev&repo=convoychat" />	
+</div>
 </details> 
