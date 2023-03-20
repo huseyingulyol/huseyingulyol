@@ -1,7 +1,27 @@
- # 💫 About Me
+
+<div align="center">
 Hello, I'm Hüseyin, First of all, I am 21 years old and a software developer and freelancer.
 I have a dream...
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&duration=500&pause=1000&center=true&vCenter=true&width=435&lines=Senior+C%23+Developer;Experienced+Programmer)](https://git.io/typing-svg)
+</div>
+
+<details open>
+	<summary><h2>📘 My Top Open Source Projects</h2></summary>
+	<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+	<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+	<p align="center">
+		<a href="https://github.com/streamworlddev/logmanager-winformapp"><img width="272" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=streamworlddev&repo=logmanager-winformapp&theme=react&bg_color=00000f&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false" alt="BlackListBox"></a>
+	</p>
+	
+	<p align="left">
+		<a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+	</p>
+<p align="left">
+	<a href="https://github.com/danielcshn?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
+</details>
+ 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/huseyin.gulyol) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@streamworlddev) 
 
