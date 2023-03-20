@@ -112,7 +112,7 @@
 	
 <!-- https://github.com/jstrieb/github-stats -->
 <div align="center" float="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=streamworlddev&theme=transparent&bg_color=0d1117ff&text_color=007bff&hide_title=true&hide_border=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=streamworlddev&theme=dark&langs_count=3" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=streamworlddev&bg_color=00000f&text_color=ffffff&hide_title=true&hide_border=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=streamworlddev&bg_color=00000f&text_color=ffffff&langs_count=3&hide_title=true&hide_border=true&line_height=15&layout=compact" />
 </div>
 </details> 
