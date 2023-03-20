@@ -111,8 +111,8 @@
  <img alt="streamworlddev's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=streamworlddev&bg_color=00000f&color=007bff&line=008f4c&point=FFFFFF&hide_border=true" />
 	
 <!-- https://github.com/jstrieb/github-stats -->
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=streamworlddev&repo=github-readme-stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=streamworlddev&repo=convoychat" />	
+<div align="center" float="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=streamworlddev&theme=transparent&bg_color=0d1117ff&text_color=007bff&hide_title=true&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=streamworlddev&theme=dark&langs_count=3" />
 </div>
 </details> 
