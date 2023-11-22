@@ -27,6 +27,7 @@
 	<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 	<p align="center">
 		<a href="https://github.com/streamworlddev/StreamWorld.LogManager"><img width="272" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=streamworlddev&repo=StreamWorld.LogManager&theme=react&bg_color=00000f&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false" alt="BlackListBox"></a>
+		<a href="https://github.com/streamworlddev/ytadblocker"><img width="272" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=streamworlddev&repo=ytadblocker&theme=react&bg_color=00000f&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false" alt="BlackListBox"></a>
 		<a href="https://github.com/streamworlddev/google-mulakat-sorusu"><img width="272" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=streamworlddev&repo=google-mulakat-sorusu&theme=react&bg_color=00000f&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false" alt="BlackListBox"></a>
 	</p>
 	
