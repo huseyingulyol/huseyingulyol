@@ -5,11 +5,11 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/@streamworlddev"><img width="48px" alt="Youtube" title="Youtube" src="https://raw.githubusercontent.com/streamworlddev/streamworlddev/master/images/youtube-48px.svg"/></a>
+  <a href="https://www.youtube.com/@huseyingulyol"><img width="48px" alt="Youtube" title="Youtube" src="https://raw.githubusercontent.com/huseyingulyol/huseyingulyol/master/images/youtube-48px.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/udgRqcCM" alt="Discord" title="Dev Pro Tips Discord Server"><img width="48px" src="https://raw.githubusercontent.com/streamworlddev/streamworlddev/master/images/discord-48px.svg"/></a>
+  <a href="https://discord.gg/udgRqcCM" alt="Discord" title="Dev Pro Tips Discord Server"><img width="48px" src="https://raw.githubusercontent.com/huseyingulyol/huseyingulyol/master/images/discord-48px.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;
-  <a href="https://instagram.com/huseyin.gulyol" alt="Instagram" title="Instagram"><img width="48px" src="https://raw.githubusercontent.com/streamworlddev/streamworlddev/master/images/instagram-48px.svg"/></a>
+  <a href="https://instagram.com/huseyin.gulyol" alt="Instagram" title="Instagram"><img width="48px" src="https://raw.githubusercontent.com/huseyingulyol/huseyingulyol/master/images/instagram-48px.svg"/></a>
 </p>
 
 
@@ -18,7 +18,7 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Work+Sans&size=24&duration=2500&color=007bff&center=true&vCenter=true&width=500&lines=C%23+Developer;Experienced+Programmer)](https://git.io/typing-svg) 
   
-  ![](https://komarev.com/ghpvc/?username=streamworlddev&color=007bff&label=Profile+Views&style=for-the-badge)
+  ![](https://komarev.com/ghpvc/?username=huseyingulyol&color=007bff&label=Profile+Views&style=for-the-badge)
 </div>
 
 <details open>
@@ -26,13 +26,13 @@
 	<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 	<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 	<p align="center">
-		<a href="https://github.com/streamworlddev/StreamWorld.LogManager"><img width="272" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=streamworlddev&repo=StreamWorld.LogManager&theme=react&bg_color=00000f&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false" alt="BlackListBox"></a>
-		<a href="https://github.com/streamworlddev/ytadblocker"><img width="272" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=streamworlddev&repo=ytadblocker&theme=react&bg_color=00000f&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false" alt="BlackListBox"></a>
-		<a href="https://github.com/streamworlddev/google-mulakat-sorusu"><img width="272" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=streamworlddev&repo=google-mulakat-sorusu&theme=react&bg_color=00000f&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false" alt="BlackListBox"></a>
+		<a href="https://github.com/huseyingulyol/StreamWorld.LogManager"><img width="272" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=huseyingulyol&repo=StreamWorld.LogManager&theme=react&bg_color=00000f&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false" alt="BlackListBox"></a>
+		<a href="https://github.com/huseyingulyol/ytadblocker"><img width="272" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=huseyingulyol&repo=ytadblocker&theme=react&bg_color=00000f&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false" alt="BlackListBox"></a>
+		<a href="https://github.com/huseyingulyol/google-mulakat-sorusu"><img width="272" height="135" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=huseyingulyol&repo=google-mulakat-sorusu&theme=react&bg_color=00000f&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false" alt="BlackListBox"></a>
 	</p>
 	
   <p align="left">
-    <a href="https://github.com/streamworlddev?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+    <a href="https://github.com/huseyingulyol?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
   </p>
 </details>
  
@@ -45,7 +45,7 @@
   </p>
   
   <p align="left">
-    <a href="https://github.com/streamworlddev/My-Contributions/blob/main/README.md"><img alt="All Forks" title="All Forks" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
+    <a href="https://github.com/huseyingulyol/My-Contributions/blob/main/README.md"><img alt="All Forks" title="All Forks" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
   </p>
 </details>
 
@@ -71,7 +71,7 @@
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
       <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
       <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Astreamworlddev+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Ahuseyingulyol+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
   
   </p>
   
@@ -106,14 +106,14 @@
 <details open> 
   <summary><h2>📊 GitHub Stats</h2></summary>
   <!-- https://github.com/marketplace/actions/github-profile-3d-contrib -->
- <img alt="streamworlddev's GitHub Profile 3D Contrib" src="https://raw.githubusercontent.com/streamworlddev/streamworlddev/master/profile-3d-contrib/profile-night-green.svg" />
+ <img alt="huseyingulyol's GitHub Profile 3D Contrib" src="https://raw.githubusercontent.com/huseyingulyol/huseyingulyol/master/profile-3d-contrib/profile-night-green.svg" />
 
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
- <img alt="streamworlddev's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=streamworlddev&bg_color=00000f&color=007bff&line=008f4c&point=FFFFFF&hide_border=true" />
+ <img alt="huseyingulyol's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=huseyingulyol&bg_color=00000f&color=007bff&line=008f4c&point=FFFFFF&hide_border=true" />
 	
 <!-- https://github.com/jstrieb/github-stats -->
 <div align="center" float="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=streamworlddev&bg_color=00000f&text_color=ffffff&hide_title=true&hide_border=true" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=streamworlddev&bg_color=00000f&text_color=ffffff&langs_count=3&hide_title=true&hide_border=true&line_height=15&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=huseyingulyol&bg_color=00000f&text_color=ffffff&hide_title=true&hide_border=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyingulyol&bg_color=00000f&text_color=ffffff&langs_count=3&hide_title=true&hide_border=true&line_height=15&layout=compact" />
 </div>
 </details> 
