@@ -5,7 +5,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/@huseyingulyol"><img width="48px" alt="Youtube" title="Youtube" src="https://raw.githubusercontent.com/huseyingulyol/huseyingulyol/master/images/youtube-48px.svg"/></a>
+  <a href="https://www.youtube.com/@streamworlddev"><img width="48px" alt="Youtube" title="Youtube" src="https://raw.githubusercontent.com/huseyingulyol/huseyingulyol/master/images/youtube-48px.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/udgRqcCM" alt="Discord" title="Dev Pro Tips Discord Server"><img width="48px" src="https://raw.githubusercontent.com/huseyingulyol/huseyingulyol/master/images/discord-48px.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;
